@@ -22,32 +22,32 @@
   <body>
     <div class="container d-flex align-items-center">
       <div class="jumbotron">
-        <h2>Umamusume DB Translate</h2>
+        <h2>Uma Musume: Pretty Derby DB Translate Thai</h2>
         <p>
-          This tool aims to provide translation to Umamusume ingame text by patching <code>text_data</code> table in <code>master.mdb</code> file.<br/>
-          This process is done completely in the browser. To contribute or get more details, please check the <a href="https://github.com/FabulousCupcake/umamusume-db-translate">GitHub Repository</a>.
+          โปรแกรมนี้ทำมาเพื่อแปลภาษาเกม Uma Musume: Pretty Derby  โดยการแพทส่วนของข้อความตำแหน่ง  <code>text_data</code> ในตารางของไฟล์ <code>master.mdb</code> <br/>
+          การสร้างไฟล์แพทนี้ ทำเสร็จสมบูรณ์ทุกอย่างผ่านบราวเซอร์นี้ . เพื่อร่วมให้ข้อมูลการแปลหรือรายละเอียดเพิ่มเติม, คลิกที่ลิ๊งนี้  <a href="https://github.com/HackPC/umamusume-db-translate">ใน GitHub Repository</a>.
         </p>
-        <h3>Usage</h3>
+        <h3>การใช้งาน</h3>
         <ol>
-          <li>Locate your <code>master.mdb</code> file after clicking the button below</li>
-          <small>By default it is located at <code>C:\Users\YourUsername\AppData\LocalLow\Cygames\umamusume\master\master.mdb</code></small>
-          <li>Replace the game <code>master.mdb</code> file with the translated <code>master.mdb</code> file</li>
+          <li>หาไฟล์ทที่ชื่อว่า  <code>master.mdb</code> จากนั้นคลิ๊กปุ่มด้านล่าง</li>
+          <small>โดยปกติแล้วจะอยู่ตำแหน่ง  <code>C:\Users\YourUsername\AppData\LocalLow\Cygames\umamusume\master\master.mdb</code></small>
+          <li>แทนที่ไฟล์  <code>master.mdb </code> เดิม ด้วยไฟล์ที่สร้างจากเว็บไซด์นี้  :  <code>master.mdb</code> แทน</li>
         </ol>
         <div class="text-center m-5">
           <input id="dbfile" type="file" hidden>
-          <label for="dbfile" class="btn btn-lg btn-primary">Choose File</label>
+          <label for="dbfile" class="btn btn-lg btn-primary">เลือกไฟล์  master.mdb</label>
         </div>
-        <h3>Notes and Caveats</h3>
+        <h3>อ่านก่อนโหลด</h3>
         <ul>
           <li>
-            This process modifies game files and is <strong>NOT</strong> allowed per game Terms of Service!<br/>
-            Use this tool at your own risk! We are not responsible for any actions taken to your account!
+            การสร้างไฟล์แพทนี้เป็นการแก้ไขตัวเกมและมัน<strong>ไม่</strong> ได้รับอณุญาติจาก เงื่อนไขการให้บริการ!<br/>
+            ใช้ม็อดนี้โดยรับความเสี่ยงเอาเอง ! เราจะไม่รับผิดชอบหากไอดีคุณถูกระงับให้บริการ!
           </li>
-          <li>Not all ingame text are in <code>master.mdb</code>, so this method does not fully translate the game; e.g. story text remains intact.</li>
-          <li>There are length limits so skill descriptions may get cut off or look wonky.</li>
-          <li>If the game is updated and <code>master.mdb</code> is replaced, is you will need to redo the process.</li>
-          <li>This tool is made primarily for DMM (Windows) distribution of the game, as it is way easier to replace the file.</li>
-          <small>You can still achieve in-game translation by replacing <code>master.mdb</code> in mobile devices, it's just more painful to do.</small>
+          <li>ไม่ใช่ทุกข้อความที่ถูกแปลลงในไฟล์  <code>master.mdb</code>, ดังนั้นมันไม่ใช่การแปลทั้งเกม ; เช่น. ข้อความสตอรี่ ข้อความการบรรยายการแข่งม้า เป็นต้น.</li>
+          <li>ความยาวของข้อความมันจำกัด ดังนั้น รายละเอียดของสกิล อาจถูกย่อลง หรือตัดให้กระชับขึ้นอาจทำให้งง.</li>
+          <li>ถ้าเกมมันอัพเดทแล้วไฟล์ <code>master.mdb</code> ถูกแก้ไข, ให้กลับมาทำใหม่อีกรอบ.</li>
+          <li>เครื่องมือนี้ทำขึ้นให้ตัวเกม  DMM Version (Windows)เป็นหลัก เพราะมันง่ายต่อการติดตั้งไฟล์ม็อด.</li>
+          <small>สามารถเอาไฟล์ <code>master.mdb</code>ไปใช้ในเวอร์ชั้นมือถือ Android , Emulator, แต่จำเป็นต้อง Root อุปกรณ์ก่อนถึงจะสามารถนำไฟล์ไปวางทับไฟล์  <code>master.mdb</code> ในตำแหน่ง data/data/jp.co.cygames.umamusume/files/master  .</small>
         </ul>
       </div>
     </div>
