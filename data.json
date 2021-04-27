@@ -1030,6 +1030,7 @@
   "ミホノブルボンの\\n親愛度ランクを1にしよう": "Reach friendship rank 1 with Mihono Bourbon",
   "ビワハヤヒデの\\n親愛度ランクを1にしよう": "Reach friendship rank 1 with Biwa Hayahide",
   "カレンチャンの\\n親愛度ランクを1にしよう": "Reach friendship rank 1 with Curren Chan",
+  "ナリタタイシンの\n親愛度ランクを1にしよう": "Reach friendship rank 1 with Narita Taishin",
   "チームランク[D]に\\n到達させよう": "Reach team rank D",
   "チームランク[B]に\\n到達させよう": "Reach team rank B",
   "チームランク[A]に\\n到達させよう": "Reach team rank A",
@@ -1078,6 +1079,7 @@
   "winning the soulを\\n見よう": "Watch 'winning the soul'",
   "ユメヲカケル！を\\n見よう": "",
   "特定の編成でユメヲカケル！を\\n見よう": "",
+  "涙ひかって明日になれ！を\n見よう": "Watch 'Namida hikatte ashita ni nare!'",
   "累計フォロー数25人を達成しよう": "Achieve a cumulative total of 25 followers",
   "累計フォロー数50人を達成しよう": "Achieve a cumulative total of 50 followers",
   "累計フォロワー数100人を達成しよう": "Achieve a cumulative total of 100 followers",
@@ -1205,6 +1207,10 @@
   "カレンチャンのファン数を\\n累計1000万人獲得しよう": "Reach 10 million total fans for Curren Chan",
   "カレンチャンのファン数を\\n累計5000万人獲得しよう": "Reach 50 million total fans for Curren Chan",
   "カレンチャンのファン数を\\n累計1億人獲得しよう": "Reach 100 million total fans for Curren Chan",
+  "ナリタタイシンの\nウマ娘ストーリー第4話を見よう": "Read chapter 4 of Narita Taishin's story",
+"ナリタタイシンのファン数を\n累計1000万人獲得しよう":"Reach 10 million total fans for Narita Taishin",
+"ナリタタイシンのファン数を\n累計5000万人獲得しよう":"Reach 50 million total fans for Narita Taishin",
+"ナリタタイシンのファン数を\n累計1億人獲得しよう":"Reach 100 million total fans for Narita Taishin",
   "「サクラバクシンオーのバクシン！お悩み相談！」を視聴しよう": "Watch 'Sakura Bakushin O's Bakushin! Troubleshooting'",
   "①【1日目】ダイワスカーレットをファン5千人以上で育成完了しよう": "① [วันที่ 1] เล่น Daiwa Scarlet’s ให้ได้แฟนคลับ 5000 คน",
   "①【1日目】育成で桜花賞の3着以内に入ろう": "① [วันที่ 1] ลงแข่งและได้อันดับ 1-3 ในสนาม Oka Sho ระหว่างฝึก",
@@ -2093,6 +2099,8 @@
   "ツインターボ": "Twin Turbo",
   "サトノダイヤモンド": "Satono Diamond",
   "キタサンブラック": "Kitasan Black",
+  "サクラチヨノオー":"Sakura Chiyono O",
+  "ヤエノムテキ":"Yaeno Muteki",
   "ハッピーミーク": "Happy Meek",
   "駿川たづな": "Hayakawa Tazuna",
   "秋川理事長": "President Akikawa",
@@ -2796,6 +2804,7 @@
   "最終直線で競り合いに負けない\\n気持ちが湧き、速度が少し上がる": "ไม่รู้สึกว่าจะแพ้ทางตรงสุดท้ายเลย ! เพิ่มความเร็วเล็กน้อย",
   "レース後半に前の方で競り合うとバク\\nシン力（？）を発揮、速度が少し上がる" :"ถ้าเกิดการปะทะกันหลังจากผ่านครึ่งสนามไปแล้ว บาคุชินจะเพิ่มความเร็วขึ้นเล็กน้อย",
   "レース中盤で好位置にいる時に\\n持久力が少し回復する": "ช่วงกลางเกมเพิ่มความอึดเมื่ออยู่ตำแหน่งที่ดี",
+  "最終コーナーで集団の後方の位置から\n前へ出る時、切れ味が増し速度が上がる":"<size=22>Increase speed in the last corner when coming up from the back of the pack</size>",
   "最終コーナーで後ろの方にいると近くの\\nウマ娘を見て持久力を少し回復する": "หากตอนเข้าโค้งสุดท้ายอยู่ด้านหลัง จะฟื้นฟูความเหนื่อยเล็กน้อย (สกิวอุราระ)",
   "レース終盤に前方が詰まると\\nお告げの力で少し道を切り開く": "ช่วงก่อนเข้าเส้นชัย จะเพิ่มโอกาสและช่องว่างในการแซงตัวหน้า",
   "レース終盤で3番手の時に負けそうに\\nなると闘志に火が付き速度が少し上がる": "ข่วงก่อนเข้าเส้นชัย หากจะแพ้เป็นอันดับที่ 3 จะฮึดสู้และเพิ่มความเร็วเล็กน้อย",
@@ -2975,7 +2984,7 @@
   "1番人気のウマ娘と作戦が同じだと\\n能力を少し発揮しやすい": "Become a little better at showing off your ability when sharing a strategy with the crowd favorite",
   "4番人気以下のレースで\\n能力を発揮しやすい": "Become better at showing off your ability when 4th favorite or below",
   "4番人気以下のレースで\\n能力を少し発揮しやすい": "Become a little better at showing off your ability when 4th favorite or below",
-  "GⅠのレースが少し苦手になる": "Become worse at GⅠ races",
+  "GⅠなどの大舞台のレースが\n少し苦手になる": "Become worse at GI races",
   "1番人気になる事が少し苦手になる": "Become worse when you're the crowd favourite of the race",
   "コーナーが得意になり\\n速度が上がる": "เพิ่มความสามารถการเข้ามุมและเพิ่มความเร็วดีขึ้น",
   "コーナーが得意になり\\n速度がわずかに上がる": "เพิ่มความสามารถการเข้ามุมและเพิ่มความเร็ว",
@@ -3524,6 +3533,7 @@
   "#LookatCurren": "#LookatCurren",
   "優等生×バクシン＝大勝利ッ": "Honor Student x Bakushin = Big Victory",
   "ピュリティオブハート": "Purity of Heart",
+  "Nemesis":"Nemesis"
   "ワクワククライマックス": "Exciting Climax",
   "来ます来てます来させます！": "I'm coming, I'm coming, I'm coming!",
   "きっとその先へ…！": "Surely, beyond...!",
@@ -4000,6 +4010,7 @@
   "winning the soulを見よう": "Watch 'winning the soul'",
   "ユメヲカケル！を見よう": "Watch 'Yume wo Kakeru!'",
   "特定の編成でユメヲカケル！を見よう": "Watch 'Yume wo Kakeru! (special version)'",
+  "涙ひかって明日になれ！を見よう":"Watch 'Namida hikatte ashita ni nare!'",
   "ウマ娘を15人獲得しよう": "Get 15 horse girls",
   "ウマ娘を100人獲得しよう": "Get 100 horse girls",
   "才能開花で10人のウマ娘を★5にしよう": "Raise a horse girl to ★5 10 times",
@@ -4057,6 +4068,11 @@
   "ささやかな祈り": "",
   "本能スピード": "",
   "winning the soul": "",
+  "涙ひかって明日になれ！":"",
+  "ナリタタイシンとの出会い":""
+"ナリタタイシン担当":""
+"ナリタタイシン専属":""
+"ナリタタイシン名手":""
   "ユメヲカケル！": "",
   "夢の三連覇": "",
   "コミュ力": "",
@@ -4328,6 +4344,7 @@
   "どちらかが育成で無敗で桜花賞、オークス、秋華賞を\\n勝利したウマ娘から想いを継承し、\\n無敗で桜花賞、オークス、秋華賞を勝利する": "Inherit memories from parents that won every single race including the Oka Sho, Oaks, and Shuka Sho\\nWin all 3 of them while winning every single race",
   "どちらもファン数が460000人以上のウマ娘から想いを継承し、\\nファン数が480000人以上になる": "Inherit memories from parents with 460000 or more fans\\nEarn a total of 480000 or more fans",
   "全レースで2着以内で、\\n菊花賞、天皇賞（春）、宝塚記念を勝利し、\\n目標を全て達成し育成を完了する": "Finish 2nd or higher in every single race\\nWin the Kikka Sho, Tenno Sho (Spring), and Takarazuka Kinen\\nClear all objectives and complete the training",
+  "作戦「追込」で皐月賞でラストの直線で4人以上を抜いて勝利し、\n作戦「追込」で天皇賞（春）を勝利し、\n基礎能力[根性]が1200以上になる。": "<size=22>Win the Satsuki Sho as a chaser by breaking through ≥4 people in the last straight\nWin the Tenno Sho (Spring) as a chaser\nReach ≥1200 guts</size>",
   "レイニーウマ娘": "Rainy Girl",
   "ミス・クラウディ": "Miss Cloudy",
   "雪の女王": "Snow Queen",
@@ -4462,5 +4479,6 @@
   "女王の精神": "Queen's Spirit",
   "真・女王の精神": "True・Queen's Spirit",
   "時代の寵児": "Era's Favorite",
-  "勝利の探究者": "Victory Seeker"
+  "勝利の探究者": "Victory Seeker",
+  "逆転のウマ娘": "Reversal Girl"
 }
