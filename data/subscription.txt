@@ -367,6 +367,10 @@ player/plugins/vast-*.js$script
 !----- filters/category/anime_hide.txt -----
 box-manga.com,mangath.co,mgsub.com###ads728x90top
 manga168.com.com##a[href*=bet] > img
+manga168.com.com##a[href*=ufa] > img
+manga168.com.com##a[href*=888] > img
+manga168.com.com##a[href*=1919] > img
+manga168.com.com##a[href*=99] > img
 anime-i.com###ani688
 lnwmanga.com###divAdsBg
 cat-translator.com###fixedban
